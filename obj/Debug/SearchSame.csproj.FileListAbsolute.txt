@@ -1,0 +1,5 @@
+C:\Documents and Settings\Yango\Mis documentos\Visual Studio 2008\Projects\SearchSame\SearchSame\bin\Debug\SearchSame.exe
+C:\Documents and Settings\Yango\Mis documentos\Visual Studio 2008\Projects\SearchSame\SearchSame\bin\Debug\SearchSame.pdb
+C:\Documents and Settings\Yango\Mis documentos\Visual Studio 2008\Projects\SearchSame\SearchSame\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Yango\Mis documentos\Visual Studio 2008\Projects\SearchSame\SearchSame\obj\Debug\SearchSame.exe
+C:\Documents and Settings\Yango\Mis documentos\Visual Studio 2008\Projects\SearchSame\SearchSame\obj\Debug\SearchSame.pdb
